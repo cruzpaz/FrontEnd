@@ -1,4 +1,4 @@
 export interface Departamento {
-  IdDepto:number,
-  Nombre:string
+  id:number,
+  nombre:string
 }
